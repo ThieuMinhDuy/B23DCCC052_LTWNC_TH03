@@ -140,4 +140,10 @@ Nếu chỉ dựa duy nhất vào Middleware để bảo vệ khu vực quản t
 ---
 
 ## 6. Đo kiểm SEO, Lighthouse & View Source
+<img width="1917" height="1088" alt="image" src="https://github.com/user-attachments/assets/3e4e1f9c-2a42-453a-b436-6d5222e2cb08" />
+<img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/7c77e61f-c291-4e7f-8caa-d1e3690aad90" />
+<img width="1024" height="581" alt="image" src="https://github.com/user-attachments/assets/61af888f-1edd-4f58-b56f-ac10d431fb7b" />
+
+
+
 
