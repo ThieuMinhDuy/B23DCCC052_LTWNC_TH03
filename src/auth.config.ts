@@ -3,6 +3,7 @@ import type { Role } from '@/types';
 
 // auth config for edge & middleware
 export const authConfig: NextAuthConfig = {
+  trustHost: true,
   pages: {
     signIn: '/login',
   },
