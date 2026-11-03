@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "title": "Bài thực hành 3: Xây dựng Class Deadline Hub với Next.js",
+    "description": "Dựng cổng thông tin deadline hoàn chỉnh với Next.js App Router, SSG, ISR, SSR, NextAuth v5 và phân quyền RBAC đa lớp.",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "dueDate": "2026-11-15T23:59:59Z",
+    "priority": "high",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "2",
+    "title": "Báo cáo đề cương đồ án cuối kỳ Web nâng cao",
+    "description": "Nộp tài liệu đặc tả kiến trúc, luồng xác thực và phân công thành viên nhóm đồ án ứng dụng Next.js.",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "dueDate": "2026-11-20T17:00:00Z",
+    "priority": "high",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "3",
+    "title": "Thực hành đo kiểm Core Web Vitals & Tối ưu SEO",
+    "description": "Chạy Lighthouse trên môi trường production, tối ưu LCP < 2.5s, CLS < 0.1 và cấu hình JSON-LD BreadcrumbList.",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "dueDate": "2026-11-25T23:59:59Z",
+    "priority": "medium",
+    "completedBy": [
+      "u-sv-1"
+    ],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "4",
+    "title": "Bài tập mã hóa khóa đối xứng AES & RSA",
+    "description": "Cài đặt thuật toán mã hóa AES-256 trong bảo vệ payload truyền tải mạng và ký số văn bản bằng khóa công khai RSA 2048.",
+    "subjectSlug": "an-toan-thong-tin",
+    "dueDate": "2026-11-10T23:59:59Z",
+    "priority": "high",
+    "completedBy": [
+      "u-sv-1"
+    ],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "5",
+    "title": "Lab 4: Phân tích lỗ hổng XSS & SQL Injection",
+    "description": "Thực hiện tấn công giả lập trên môi trường thử nghiệm và đề xuất các giải pháp khắc phục bằng CSP và Prepared Statements.",
+    "subjectSlug": "an-toan-thong-tin",
+    "dueDate": "2026-11-18T23:59:59Z",
+    "priority": "medium",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "6",
+    "title": "Báo cáo chuyên đề: Giao thức Zero Trust trong doanh nghiệp",
+    "description": "Viết tiểu luận phân tích nguyên tắc Never Trust, Always Verify và kiến trúc triển khai Zero Trust cho đám mây.",
+    "subjectSlug": "an-toan-thong-tin",
+    "dueDate": "2026-12-05T23:59:59Z",
+    "priority": "low",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "7",
+    "title": "Thiết kế biểu đồ lớp và tuần tự cho hệ thống E-commerce",
+    "description": "Vẽ biểu đồ lớp chi tiết kèm mẫu thiết kế Factory Method và Strategy Pattern cho cổng thanh toán đa phương thức.",
+    "subjectSlug": "kien-truc-phan-mem",
+    "dueDate": "2026-11-12T18:00:00Z",
+    "priority": "high",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "8",
+    "title": "Refactor dự án theo nguyên lý Clean Architecture",
+    "description": "Tách biệt rõ ràng 4 tầng: Domain, Use Cases, Interface Adapters và Frameworks/Drivers, đảm bảo Dependency Rule.",
+    "subjectSlug": "kien-truc-phan-mem",
+    "dueDate": "2026-11-28T23:59:59Z",
+    "priority": "medium",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "9",
+    "title": "Thuyết trình so sánh Monolith vs Event-Driven Microservices",
+    "description": "Chuẩn bị slide và demo xử lý nghẽn dữ liệu với Apache Kafka và RabbitMQ trong kiến trúc hướng sự kiện.",
+    "subjectSlug": "kien-truc-phan-mem",
+    "dueDate": "2026-12-10T12:00:00Z",
+    "priority": "low",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "10",
+    "title": "Cài đặt thuật toán A* giải bài toán 8-puzzle",
+    "description": "So sánh hàm heuristic khoảng cách Manhattan và số ô sai vị trí, đánh giá số trạng thái duyệt và thời gian thực thi.",
+    "subjectSlug": "tri-tue-nhan-tao",
+    "dueDate": "2026-11-14T23:59:59Z",
+    "priority": "high",
+    "completedBy": [
+      "u-sv-1"
+    ],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "11",
+    "title": "Xây dựng mô hình phân loại ảnh chữ số viết tay MNIST",
+    "description": "Huấn luyện mạng nơ-ron tích chập (CNN) trên tập dữ liệu MNIST, đạt độ chính xác trên 98% và visualize ma trận nhầm lẫn.",
+    "subjectSlug": "tri-tue-nhan-tao",
+    "dueDate": "2026-11-26T23:59:59Z",
+    "priority": "medium",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  },
+  {
+    "id": "12",
+    "title": "Báo cáo đồ án AI: Chatbot hỗ trợ học tập dựa trên RAG",
+    "description": "Tích hợp mô hình ngôn ngữ lớn (LLM) với cơ sở dữ liệu vector để sinh câu trả lời chính xác dựa trên tài liệu môn học.",
+    "subjectSlug": "tri-tue-nhan-tao",
+    "dueDate": "2026-12-15T23:59:59Z",
+    "priority": "high",
+    "completedBy": [],
+    "createdAt": "2026-11-01T08:00:00Z",
+    "createdBy": "u-admin-1"
+  }
+]

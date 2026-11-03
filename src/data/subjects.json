@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sub-1",
+    "code": "INT1416",
+    "name": "Lập trình Web nâng cao",
+    "slug": "lap-trinh-web-nang-cao",
+    "description": "Nghiên cứu chuyên sâu Next.js App Router, SSR, SSG, ISR, Auth.js và tối ưu hóa hiệu năng ứng dụng web.",
+    "teacher": "ThS. Ngô Văn Nhận",
+    "credits": 3,
+    "color": "blue"
+  },
+  {
+    "id": "sub-2",
+    "code": "INT1432",
+    "name": "An toàn thông tin",
+    "slug": "an-toan-thong-tin",
+    "description": "Các kỹ thuật mã hóa dữ liệu, xác thực đa yếu tố, tấn công & phòng thủ ứng dụng mạng và bảo mật phần mềm.",
+    "teacher": "TS. Hoàng Quốc Thịnh",
+    "credits": 3,
+    "color": "emerald"
+  },
+  {
+    "id": "sub-3",
+    "code": "INT1454",
+    "name": "Kiến trúc & Thiết kế phần mềm",
+    "slug": "kien-truc-phan-mem",
+    "description": "Thiết kế hệ thống phân tán, các mẫu thiết kế GoF, Microservices, Clean Architecture và DDD.",
+    "teacher": "PGS.TS. Trần Đình Nam",
+    "credits": 3,
+    "color": "amber"
+  },
+  {
+    "id": "sub-4",
+    "code": "INT1340",
+    "name": "Trí tuệ nhân tạo",
+    "slug": "tri-tue-nhan-tao",
+    "description": "Thuật toán tìm kiếm không gian trạng thái, học máy cơ bản, mạng nơ-ron và các ứng dụng AI thực tế.",
+    "teacher": "TS. Nguyễn Minh Hải",
+    "credits": 3,
+    "color": "purple"
+  }
+]

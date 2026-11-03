@@ -1,0 +1,18 @@
+[
+  {
+    "id": "u-admin-1",
+    "email": "admin@ptit.edu.vn",
+    "password": "admin123",
+    "name": "Lớp trưởng (Admin)",
+    "role": "admin",
+    "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=admin"
+  },
+  {
+    "id": "u-sv-1",
+    "email": "sv@ptit.edu.vn",
+    "password": "sv123456",
+    "name": "Sinh viên PTIT",
+    "role": "user",
+    "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=sinhvien"
+  }
+]
